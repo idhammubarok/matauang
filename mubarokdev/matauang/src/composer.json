@@ -1,11 +1,11 @@
 {
-    "name": "mubarok/matauang",
+    "name": "idhammubarok/matauang",
     "description": "Package Format Mata Uang",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "mubarok",
+            "name": "idham mubarok",
             "email": "idhammubarok43@gmail.com"
         }
     ],
