@@ -1,0 +1,18 @@
+{
+    "name": "mubarok/matauang",
+    "description": "Package Format Mata Uang",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mubarok",
+            "email": "idhammubarok43@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MubarokDev\\MataUang\\": "src/"
+        }
+    }
+}
